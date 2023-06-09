@@ -1,0 +1,4 @@
+application/__pycache__/
+application/db/__pycache__/
+.idea/
+venv/
